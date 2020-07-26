@@ -11,7 +11,7 @@ License URI: license.txt
 Tags: black, green, dark, fixed-width, featured-images, custom-menu, translation-ready, threaded-comments, theme-options
 */
 
-@import url(https://rta.netlify.app/wp-content/themes/funmovie/styles/font.css);
+@import url(/www.rta.netlify.app/wp-content/themes/funmovie/styles/font.css);
 /* ========================================= GENERAL. ========================================= */
 body {
     font-family: 'robotoregular';
@@ -160,7 +160,7 @@ form .search-box input[type="submit"] {
 	border:none;
 	font-family:'FontAwesome';
 	text-indent:-99999px;
-	background: url(https://rta.netlify.app/wp-content/themes/funmovie/images/search-icon.png) 50% no-repeat, #f3cf3f;
+	background: url(/www.rta.netlify.app/wp-content/themes/funmovie/images/search-icon.png) 50% no-repeat, #f3cf3f;
 }
 .headersearch .search-box {
 	display: none;
@@ -195,16 +195,16 @@ form .search-box input[type="submit"] {
 	width:132px;
 	height:40px;
 	line-height: 40px;
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/search.png) 50% no-repeat;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/search.png) 50% no-repeat;
 	z-index:1;
 	text-align: center;
 	cursor: pointer;
 }
 #search-trigger:hover {
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/search-hover.png) 50% no-repeat;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/search-hover.png) 50% no-repeat;
 }
 #search-trigger.active {
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/search-hover.png) 50% no-repeat;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/search-hover.png) 50% no-repeat;
 }
 @media screen and (max-width:640px) {
 	.headersearch {
@@ -278,15 +278,15 @@ form .search-box input[type="submit"] {
 		width: 122px;
 		left: 0;
 		top:0;
-		background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/menu.png) 50% no-repeat;
+		background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/menu.png) 50% no-repeat;
 		cursor: pointer;
 		z-index:1;
 	}
 	#menu-trigger:hover {
-		background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/menu-hover.png) 50% no-repeat;
+		background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/menu-hover.png) 50% no-repeat;
 	}
 	#menu-trigger.active {
-		background: url(https://rta.netlify.app/wp-content/themes/funmovie/images/menu-hover.png) 50% no-repeat;
+		background: url(/www.rta.netlify.app/wp-content/themes/funmovie/images/menu-hover.png) 50% no-repeat;
 		z-index: 3;
 	}		
 	header #main-menu ul.nav-menu li ul {
@@ -387,10 +387,10 @@ form .search-box input[type="submit"] {
 	height:25px;
 	width:40px;
 	float: right;
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/pager.png) 50% no-repeat;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/pager.png) 50% no-repeat;
 }
 .fp-nav a:hover, .fp-nav a.activeSlide {
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/pager-active.png) 50% no-repeat;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/pager-active.png) 50% no-repeat;
 }
 @media screen and (max-width:640px) {
 	.fp-content-wrap {
@@ -443,7 +443,7 @@ form .search-box input[type="submit"] {
 	top:0;
 	left:0;
 	height:100%;
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/images/showafter.png) 50% no-repeat;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/images/showafter.png) 50% no-repeat;
 }
 .showroom-item:hover > a:first-child img {
 	opacity:0.2;

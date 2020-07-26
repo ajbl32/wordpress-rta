@@ -65,5 +65,5 @@
   border: none;
 }
 .ui-dialog-titlebar-close{
-	background: url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/images/close.png') !important;
+	background: url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/images/close.png') !important;
 }

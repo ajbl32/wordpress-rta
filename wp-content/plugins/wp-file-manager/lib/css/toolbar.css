@@ -94,7 +94,7 @@
     height: 16px;
     /*display:block;*/
     display: inline-block;
-    background: url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/toolbar.png') no-repeat;
+    background: url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/toolbar.png') no-repeat;
 }
 
 .elfinder-button-text {
@@ -391,7 +391,7 @@
 
 /* button with spinner icon */
 .elfinder-button-icon-spinner {
-    background: url("https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/spinner-mini.gif") center center no-repeat;
+    background: url("/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/spinner-mini.gif") center center no-repeat;
 }
 
 /* menu */

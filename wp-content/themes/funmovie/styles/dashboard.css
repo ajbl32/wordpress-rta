@@ -9,7 +9,7 @@
 
 .smt_settings_header {
 	height:128px;
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/includes/images/top.png) left top repeat-x;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/includes/images/top.png) left top repeat-x;
 	padding-top:8px;
 }
 
@@ -83,7 +83,7 @@
 
 }
 .smt_hint_trigger {
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/includes/images/hint.png) no-repeat;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/includes/images/hint.png) no-repeat;
 	width:16px;
 	height:16px;
 	float:right;
@@ -222,7 +222,7 @@
 	display:none;
 }
 .smt_checkbox_ic {
-	background:url(https://rta.netlify.app/wp-content/themes/funmovie/includes/images/checkbox.png) left -165px;
+	background:url(/www.rta.netlify.app/wp-content/themes/funmovie/includes/images/checkbox.png) left -165px;
 	width:81px;
 	height:33px;
 	cursor:pointer;
@@ -273,7 +273,7 @@
 .smt_image_input { margin-bottom:20px; max-width:100%; }
 .smt_image_input .smt_image_ic { cursor:pointer; display:block; font-size:13px; box-shadow:none; width:100%; color:#6c7b88; padding:10px 10px; box-sizing:border-box; }
 .smt_image_preview { padding:30px; text-align:center; display:none; background:#ededed; }
-.smt_image_input img { max-width:100%; cursor:pointer; background:url(https://rta.netlify.app/wp-content/themes/funmovie/includes/images/img_back.png); }
+.smt_image_input img { max-width:100%; cursor:pointer; background:url(/www.rta.netlify.app/wp-content/themes/funmovie/includes/images/img_back.png); }
 
 .smt_icon_input { margin-bottom:20px; max-width:100%; }
 .smt_icon_input .smt_icon_ic { cursor:pointer; display:block; font-size:13px; box-shadow:none; width:100%; color:#6c7b88; padding:10px 10px; box-sizing:border-box; }

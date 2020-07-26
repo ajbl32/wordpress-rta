@@ -79,7 +79,7 @@ div.elfinder {
     height: 3px;
     content: '';
     left: 0;
-    background-image: url(https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/progress.gif);
+    background-image: url(/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/progress.gif);
     opacity: .6;
     pointer-events: none;
 }
@@ -119,7 +119,7 @@ div.elfinder {
     position: absolute;
     width: 16px;
     height: 16px;
-    background-image: url(https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/toolbar.png);
+    background-image: url(/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/toolbar.png);
     background-repeat: no-repeat;
     background-position: 0 -528px;
 }
@@ -176,7 +176,7 @@ div.elfinder {
     height: 16px;
     left: 42px;
     top: 60px;
-    background: url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/toolbar.png') 0 -96px no-repeat;
+    background: url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/img/toolbar.png') 0 -96px no-repeat;
     display: block;
 }
 

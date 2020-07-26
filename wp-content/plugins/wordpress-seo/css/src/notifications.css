@@ -1,5 +1,5 @@
-@import url(https://rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
-@import "https://rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/yoast-components/css/accessibility.scss";
+@import url(/www.rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
+@import "/www.rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/yoast-components/css/accessibility.scss";
 .yoast-notification {
 	padding: 0 12px;
 	border-left: 4px solid #fff;

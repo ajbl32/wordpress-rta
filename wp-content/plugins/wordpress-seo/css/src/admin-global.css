@@ -1,5 +1,5 @@
-@import url(https://rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
-@import "https://rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/yoastseo/css/_tooltips.scss";
+@import url(/www.rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
+@import "/www.rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/yoastseo/css/_tooltips.scss";
 
 .wpseo-premium-indicator {
   width: 1px;
@@ -258,22 +258,22 @@ th.column-wpseo-score-readability .yoast-tooltip {
 }
 
 .manage-column .yoast-linked-to:before {
-  background: transparent url("https://rta.netlify.app/wp-content/plugins/wordpress-seo/images/link-out-icon.svg") no-repeat 0 0;
+  background: transparent url("/www.rta.netlify.app/wp-content/plugins/wordpress-seo/images/link-out-icon.svg") no-repeat 0 0;
   background-size: 20px;
 }
 
 .manage-column .yoast-linked-from:before {
-  background: transparent url("https://rta.netlify.app/wp-content/plugins/wordpress-seo/images/link-in-icon.svg") no-repeat 0 0;
+  background: transparent url("/www.rta.netlify.app/wp-content/plugins/wordpress-seo/images/link-in-icon.svg") no-repeat 0 0;
   background-size: 20px;
 }
 
 .manage-column .yoast-column-seo-score:before {
-  background: transparent url("https://rta.netlify.app/wp-content/plugins/wordpress-seo/images/Yoast_SEO_negative_icon.svg") no-repeat 0 0;
+  background: transparent url("/www.rta.netlify.app/wp-content/plugins/wordpress-seo/images/Yoast_SEO_negative_icon.svg") no-repeat 0 0;
   background-size: 20px;
 }
 
 .manage-column .yoast-column-readability:before {
-  background: transparent url("https://rta.netlify.app/wp-content/plugins/wordpress-seo/images/readability-icon.svg") no-repeat 0 0;
+  background: transparent url("/www.rta.netlify.app/wp-content/plugins/wordpress-seo/images/readability-icon.svg") no-repeat 0 0;
   background-size: 20px;
 }
 

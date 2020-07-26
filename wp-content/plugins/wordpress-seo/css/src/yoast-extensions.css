@@ -11,7 +11,7 @@
    `@include vendor(border-radius, 4px);`
  *
  */
-@import url(https://rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
+@import url(/www.rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
 .yoast-list--usp {
   padding: 0;
   margin-bottom: 1em;

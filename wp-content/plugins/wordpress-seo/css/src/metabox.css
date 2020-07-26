@@ -1,7 +1,7 @@
-@import url(https://rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
-@import "https://rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/draft-js-mention-plugin/lib/plugin.css";
+@import url(/www.rta.netlify.app/wp-content/plugins/wordpress-seo/css/src/icons.css);
+@import "/www.rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/draft-js-mention-plugin/lib/plugin.css";
 /*!rtl:begin:ignore*/
-@import "https://rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/draft-js/dist/Draft.css";
+@import "/www.rta.netlify.app/wp-content/plugins/wordpress-seo/node_modules/draft-js/dist/Draft.css";
 /*!rtl:end:ignore*/
 
 #wpseo_meta {

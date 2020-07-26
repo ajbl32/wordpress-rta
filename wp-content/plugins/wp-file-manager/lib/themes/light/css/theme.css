@@ -4,35 +4,35 @@
  */
 
 /* Reset */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/reset.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/reset.css');
 
 /* Google Fonts */
 @import url('//fonts.googleapis.com/css?family=Open+Sans:300');
 
 /* Main features of the whole UI */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/main.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/main.css');
 
 /* Icons */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/icons.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/icons.css');
 
 /* Toolbar (top panel) */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/toolbar.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/toolbar.css');
 
 /* Navbar (left panel) */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/navbar.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/navbar.css');
 
 /* Views (List and Thumbnail) */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/view-list.css');
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/view-thumbnail.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/view-list.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/view-thumbnail.css');
 
 /* Context menu */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/contextmenu.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/contextmenu.css');
 
 /* (Modal) Dialogs */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/dialog.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/dialog.css');
 
 /* Status Bar */
-@import url('https://rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/statusbar.css');
+@import url('/www.rta.netlify.app/wp-content/plugins/wp-file-manager/lib/themes/light/css/statusbar.css');
 
 .ui-widget-content.elfinder-edit-editor{
 	width:100%;
