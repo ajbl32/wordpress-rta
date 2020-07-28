@@ -1,1 +1,0 @@
-<h3 class="yoast-notifications-header" id="
